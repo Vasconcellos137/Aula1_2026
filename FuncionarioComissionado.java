@@ -36,8 +36,8 @@ public class FuncionarioComissionado {
         this.funcionario = funcionario;
     }
 
-    public double calcularSalario(double vendasMensais, double percentualComissao){
+    // public double calcularSalario(double vendasMensais, double percentualComissao){
 
-    }
+    // }
     
 }

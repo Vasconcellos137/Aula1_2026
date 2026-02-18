@@ -36,9 +36,9 @@ public class FuncionarioHorista {
         this.funcionario = funcionario;
     }
 
-    public double calcularSalario(double valorPorHora, int horasTrabalhadas ){
-        double salario = valorPorHora*horasTrabalhadas;
-        return salario;
-    }
+    // public double calcularSalario(double valorPorHora, int horasTrabalhadas ){
+    //     double salario = valorPorHora*horasTrabalhadas;
+    //     return salario;
+    // }
 
 }

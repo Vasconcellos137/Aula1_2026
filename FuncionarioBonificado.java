@@ -36,5 +36,7 @@ public class FuncionarioBonificado {
         this.funComic = funComic;
     }
 
-    public double calcularSalario()
+    // public double calcularSalario(){
+        
+    // }
 }
