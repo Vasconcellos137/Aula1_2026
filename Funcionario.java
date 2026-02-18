@@ -1,8 +1,9 @@
 public class Funcionario{
+//Atributos    
     private String nome;
-    private double salarioBase;
+    public double salarioBase;
 
-
+//Construtores
     public Funcionario() {
     }
 
@@ -11,7 +12,7 @@ public class Funcionario{
         this.salarioBase = salarioBase;
     }
 
-
+//Métodos de acesso
     public String getNome() {
         return nome;
     }
@@ -28,8 +29,10 @@ public class Funcionario{
         this.salarioBase = salarioBase;
     }
 
+//Método     
+    //Por enquanto
     public double calcularSalario(double salarioBase){
-        
+        return salarioBase;
     }
 
 }
